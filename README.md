@@ -1,4 +1,5 @@
-### Hi there 👋
+# WELCOME! 🥳
+## THANKS FOR VISIT! 🎉
 
 <!--
 **MAB015/MAB015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Solidity, more of reactjs
+- 👯 I’m looking to collaborate on Web3
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about coffee and photography
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/mab015/) [twitter](https://www.twitter.com/mabo15/) [instagram](https://www.instagram.com/mab_015/)
+
+- ☕ My coffee project: [MyCoffeeExploration](https://www.instagram.com/mycoffeeexploration/)
