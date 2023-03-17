@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Solidity, more of reactjs
 - 👯 I’m looking to collaborate on Web3
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about coffee and photography
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/mab015/) [twitter](https://www.twitter.com/mabo15/) [instagram](https://www.instagram.com/mab_015/)
 
