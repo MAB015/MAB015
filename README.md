@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/mab015/) [twitter](https://www.twitter.com/mabo15/) [instagram](https://www.instagram.com/mab_015/)
 
 - ☕ My coffee project: [MyCoffeeExploration](https://www.instagram.com/mycoffeeexploration/)
+
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mab015)](https://github.com/mab015/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab015&layout=compact)](https://github.com/mab015/github-readme-stats)
