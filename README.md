@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Ángel</h1>
-<h3 align="center">As I pursue my path towards becoming a UX Engineer, my primary objective is to design products that are accessible to all users. I also prioritize fostering strong communication and collaboration between teams, as well as gaining insight into the unique needs of our customers and colleagues.</h3>
+<h3 align="center">As I pursue my path toward becoming a UI Developer, my primary objective is to design products that are accessible to all users. I also prioritize fostering strong communication and collaboration between teams, as well as gaining insight into the unique needs of our customers and colleagues.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mab015&label=Profile%20views&color=0e75b6&style=flat" alt="mab015" /> </p>
 
